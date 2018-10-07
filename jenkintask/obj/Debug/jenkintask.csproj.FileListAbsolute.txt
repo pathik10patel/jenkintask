@@ -1,0 +1,5 @@
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintask\jenkintask\bin\jenkintask.dll
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintask\jenkintask\bin\jenkintask.pdb
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintask\jenkintask\obj\Debug\jenkintask.csprojResolveAssemblyReference.cache
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintask\jenkintask\obj\Debug\jenkintask.dll
+c:\users\pathik\documents\visual studio 2012\Projects\jenkintask\jenkintask\obj\Debug\jenkintask.pdb
